@@ -54,7 +54,7 @@ Data Engineering:
 Streaming:
 
 * Apache Kafka
-* Zookeeper
+
 
 Business Intelligence:
 
